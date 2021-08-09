@@ -1,0 +1,7 @@
+SECRET_KEY="TES"
+FLASK_ENV="DEV"
+SQLALCHEMY_DATABASE_URI=mysql+pymysql://root:mypass@localhost/sentiment_app?charset=utf8mb4
+CONSUMER_KEY = "qpgZ3AAJakkxcqR8OmUryEFWs"
+CONSUMER_SECRET = "ESQVycJOKhseMBNkgFwe3aBzoExTqNpSx5yGDgcsAziaxUGGgc"
+ACCESS_TOKEN = "1422948137216270342-HrdzI35GnO4BY9d8LT6GBRxEu15Pir"
+ACCESS_SECRET = "adR4d2HGalzfc4eggkRRGXwNnlPy6vxXaXOdPQ50EwyuS"
